@@ -111,7 +111,7 @@ WebService::GitHub - Web API Client for GitHub/GHE
 
 =head1 DESCRIPTION
 
-WebService::GitHub is Web API Client for GitHub/GHE. This module provides simple get/post/put/delete interface to call APIs and decode response JSON to Perl hashref.
+WebService::GitHub is Web API Client for GitHub/GHE. This is very simple and thin API wrapper. This module provides get/post/put/delete interface to call APIs and decode response JSON to Perl hashref.
 
 =head1 METHODS
 
